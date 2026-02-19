@@ -79,22 +79,6 @@
 
 ---
 
-## 프로젝트 구조
-
-```
-├── README.md
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb    # 데이터 전처리 및 유저 세분화
-│   ├── 02_funnel_analysis.ipynb       # 전환·이탈 퍼널 분석
-│   └── 03_statistical_testing.ipynb   # 통계 검증 및 전략 도출
-├── sql/
-│   └── queries.sql                    # 데이터 추출 쿼리
-└── images/
-    └── ...                            # 시각화 결과
-```
-
----
-
 ## 담당 역할
 
 - 인과추론 기반 **분석 프레임워크 설계** (A/B 타입 비교 구조)
